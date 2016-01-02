@@ -1,4 +1,4 @@
-imple MQTT protocol wrapper for Espruino sockets.
+/*Simple MQTT protocol wrapper for Espruino sockets.
 */
 
 /** 'private' costants */
